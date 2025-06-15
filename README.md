@@ -3,16 +3,12 @@
 This project consists of an Android application (`app`) that logs phone call details and sends them to a PHP `backend`. The backend stores the data in a MySQL `database` and a simple web `frontend` displays the logs.
 
 ## Project Structure
-
-\`\`\`
-.
+![.
 ├── app/        # Android Studio Project (empty placeholder - full app using java)
 ├── backend/    # PHP scripts for API logic
 ├── frontend/   # HTML and JS for the web display
 ├── database/   # SQL schema file
-└── README.md
-\`\`\`
-
+└── README.md](/assets/project-structure.png)
 ## Setup Instructions
 
 ### 1. Backend, Frontend, & Database Setup

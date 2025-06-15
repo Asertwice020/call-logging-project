@@ -4,14 +4,12 @@ This project consists of an Android application (`app`) that logs phone call det
 
 ## Project Structure
 
-\`\`\`
 .
 ├── app/        # Android Studio Project (empty placeholder - full app using java)
 ├── backend/    # PHP scripts for API logic
 ├── frontend/   # HTML and JS for the web display
 ├── database/   # SQL schema file
 └── README.md
-\`\`\`
 
 ## Setup Instructions
 
